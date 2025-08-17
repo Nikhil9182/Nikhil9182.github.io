@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +8,78 @@ redirect_from:
 
 {% include base_path %}
 
+Name: Nikhil Bansal <br>
+Date of birth: 30-10-2000 <br>
+Nationality: India
+
+<br>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+> <b>2019 – 2023:   B.Tech in Computer Scienece with Specialization in Graphics Design and Gaming</b><br>
+              University of Petroleum and Energy Studies (UPES), Dehradun
+
+
+<br>
+
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### 2024 - 2025: Digital Twins in Unity
+* Software developer at XR4Industry, working on Digital Twins.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
+### 2022 - 2024: Walter Walnut on Steam
+* Created my own Steam game to gain experience building and finishing games.
+
+
+### 2021 – current: YouTube channel featuring game development videos
+* Video game devlogs; short videos about programming and building my games.
+
+
+### 2018: Unity tutoring (online)
+
+
+### 2016 – current: Selling game assets Unity Asset Store
+* Online sale of game templates, Unity c# scripts and 3d models.
+* Experience writing algorithms like Sudoku and word search generators.
+* Experience in customer support.
+
+
+### 2015 – current: Developing (mobile) apps & games in Unity
+* Published apps and games on the Google Play Store and Apple app store.
+* Integrated advertisements using Unity Ads and Google Admob.
+
+<br>
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Programming Languages
+- C#
+- C++
+- Python
+- JavaScript / TypeScript
+- HTML5, CSS3
+- SQL (MySQL)
+
+### Frameworks & Libraries
+- React
+- Three.js, Babylon.js
+- OpenCV
+
+### XR / AR / VR Technologies
+- Unity (2D, 3D, XR, Multiplayer, Shaders)
+- ARCore, ARKit
+- Vuforia
+- OpenXR, WebXR
+- MRTK (Mixed Reality Toolkit)
+- Lens Studio
+
+### Tools & Platforms
+- Git / GitHub
+- Firebase
+- Blender
+- Photoshop, Illustrator
+- WebGL, OpenGL

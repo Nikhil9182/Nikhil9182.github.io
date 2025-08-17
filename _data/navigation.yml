@@ -14,11 +14,5 @@ main:
   - title: "Assets"
     url: /assets/    
     
-  - title: "Devlogs"
-    url: /devlogs/   
-    
-  - title: "CV"
-    url: /cv/
-    
   - title: "Contact"
     url: /contact/   
