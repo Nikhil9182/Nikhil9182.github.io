@@ -118,5 +118,12 @@ Developed a **WebAR tool** where users can configure awnings on a website,
 and then scan a **QR code** to visualize them in real-world dimensions.
 
 </div>
+<div class="video-project">
+  <iframe 
+          src="https://www.youtube.com/embed/087Db1ePzWU" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
 </div>
 </div>
