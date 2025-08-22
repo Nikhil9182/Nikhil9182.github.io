@@ -15,12 +15,18 @@ From multiplayer MR games to VR astronaut training, these projects highlight my 
 <div class="video-container">
 <div class="video-description-left" markdown="1">
 
-## Tidal Tactics – Multiplayer MR Game
+## Tidal Tactics – Ship Battle MR Game
 
 A modern twist on the classic Battleship board game with both **single-player narrative mode** and **multiplayer battles**.  
 Currently live on the **Meta Horizon Store (Early Access)** [Link](https://www.meta.com/en-gb/experiences/tidal-tactics-ship-battle/8941120229335191).
 
-_Tech Stack: Unity, C#, Photon Fusion, Meta XR SDK (Shared Rooms and Colocation for Multiplayer)_
+1. Contributed to both game design and technical development, brainstorming and prototyping ideas to make gameplay more fun, strategic, and engaging.
+2. Implemented weapon physics systems to enhance battle mechanics and immersion.
+3. Drove major performance optimizations, raising frame rates from 35–40 FPS to 62–72 FPS on Meta Quest 2.
+4. Optimized tile generation and network lookups by restructuring data flow to send only relevant state updates between players.
+5. Developed an expandable avatar system, designed to support upcoming customizations and future characters.
+
+_Tech Stack: Unity, C#, Photon, Meta XR SDK (Shared Rooms and Colocation for Multiplayer), Git, Sentry(for issues or bugs), Meta Horizon Dashboard(Alpha/ Beta Testing, Analytics, Posts, Creative A/B testing)_
 
 </div>
 
@@ -41,9 +47,11 @@ _Tech Stack: Unity, C#, Photon Fusion, Meta XR SDK (Shared Rooms and Colocation 
 
 ## Autism Workplace Simulator
 
-Designed for individuals with autism to **practice office environments** through different scenarios, helping them prepare for real-world interactions.
+Designed to help individuals with autism practice real-world office environments through interactive scenarios, building confidence for workplace interactions.
+Implemented grounding techniques to reduce feelings of being overwhelmed during training.
+Contributed to avatar animation and lip-sync systems, improving realism and accessibility.
 
-_Tech Stack: Unity, C#, Oculus SDK_
+_Tech Stack: Unity, Timeline, Avatar Animations and Masking, Mixamo, NVdia Ominverse(for Lip Sync) C#, Oculus SDK_
 
 </div>
 Here is the one scenario from the whole experience
@@ -63,8 +71,7 @@ Here is the one scenario from the whole experience
 
 ## Gaganyaan VR Simulator
 
-Built a **training simulator** for the Gaganyaan mission,  
-simulating **all rocket phases** for astronaut training in collaboration with ISRO.
+Built a **training simulator** for the Gaganyaan mission, simulating **all rocket phases** for astronaut training in collaboration with ISRO.
 
 </div>
 
@@ -81,9 +88,10 @@ simulating **all rocket phases** for astronaut training in collaboration with IS
 
 ## SU-30MKI VR Maintenance & Training Simulator
 
-Developed a **custom VR training tool** for Indian Air Force engineers,  
-capable of creating **LAN-based multi-user VR training modules** for switches, levers, knobs, and other components.  
-Also built a **module-loading platform** to dynamically load training modules across LAN.
+Developed a **custom VR Authoring tool** for Indian Air Force engineers to create LAN-based multi-user VR training modules with rich interactions such as switches, levers, wheels, joysticks, grab-and-pick etc.
+Also built a dynamic **module-loading platform** that enables seamless loading of training modules across LAN. Implemented efficient UDP-based data transmission, splitting JSON into packets to ensure reliability and prevent data loss.
+
+_Tech Stack: Unity3D, C#, UDP Networking, JSON, Open XR, 3D Model Loader, Git_
 
 </div>
 </div>
@@ -91,8 +99,10 @@ Also built a **module-loading platform** to dynamically load training modules ac
 
 <div class="project_background" markdown="1">
 
-<div class="video-container">
-<div class="video-description-left" markdown="1">
+<div style="display: flex; gap: 10px;">
+  <img src="../files/HAL/knob.gif" width="45%" />
+  <img src="../files/HAL/lever.gif" width="45%" />
+</div>
 
 ## VR Fire Training Simulator
 
