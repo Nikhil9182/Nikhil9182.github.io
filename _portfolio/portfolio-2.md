@@ -100,9 +100,13 @@ _Tech Stack: Unity3D, C#, UDP Networking, JSON, Open XR, 3D Model Loader, Git_
 <div class="project_background" markdown="1">
 
 <div style="display: flex; gap: 10px;">
-  <img src="../files/HAL/knob.gif" width="45%" />
-  <img src="../files/HAL/lever.gif" width="45%" />
+  <img src="https://media.githubusercontent.com/media/Nikhil9182/Nikhil9182.github.io/ef220575c7155627b1e1c94137d53a9be356c424/files/HAL/knob.gif" width="50%" />
+  <img src="https://media.githubusercontent.com/media/Nikhil9182/Nikhil9182.github.io/master/files/HAL/lever.gif" width="50%" />
 </div>
+<p float="left">
+  <img src="path/to/screenshot1.png" width="400" />
+  <img src="path/to/screenshot2.png" width="400" />
+</p>
 
 ## VR Fire Training Simulator
 
@@ -111,14 +115,19 @@ allowing users to learn through realistic practice.
 
 </div>
 
-<div class="video-project">[Add Video / Screenshot]</div>
+<div class="video-project">
+  <iframe 
+          src="https://www.youtube.com/embed/emuy4NT3tAU" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
 </div>
 </div>
 
 <div class="project_background" markdown="1">
 
 <div class="video-container">
-<div class="video-project">[Add Video / Screenshot]</div>
 
 <div class="video-description-right" markdown="1">
 
