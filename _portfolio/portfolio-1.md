@@ -22,6 +22,12 @@ Published on the **Google Play Store** [Link](https://play.google.com/store/apps
 
 </div>
 
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/9tQ2rashZngEZGi8HOoKVGXpcNZyHadnTmEWuLIRJgXjz9strmMZJ_oJ2K-u6FQ4eA=w1052-h592-rw" width="30%" />
+  <img src="https://play-lh.googleusercontent.com/bDsLlw93uHwUkAJ_MKIdZxDP9g7vu6dvGP9FZcVmnaipb7lvP6IxxTojKZongQl9d8s=w1052-h592-rw" width="30%" />
+  <img src="https://play-lh.googleusercontent.com/Lfi5P4xyLAyMjCRJpWXqQDqFrHcL8Y1io3R1Rv8Zy1AAvQfEuhpWVBS9xdDx-idNnyA=w1052-h592-rw" width="30%" />
+</p>
+
 <div class="project_background" markdown="1">
 
 <div class="video-container">
@@ -58,6 +64,30 @@ A learning project where I built a **2D platformer level** with mechanics like j
 <div class="video-project">
   <iframe 
           src="https://www.youtube.com/embed/XVfSpzA_q_8" 
+          frameborder="0" 
+          allowfullscreen>
+  </iframe>
+</div>
+</div>
+</div>
+
+<div class="project_background" markdown="1">
+
+<div class="video-container">
+
+<div class="video-description-right" markdown="1">
+
+## Zombie Apocalypse
+
+Developed a **2D mobile game** set in a **zombie apocalypse**,  
+where players must **tap to spawn stones** and defend against waves of spawning zombies.  
+A small but engaging project focused on **simple interaction design** and fast-paced survival gameplay.
+
+</div>
+
+<div class="video-project">
+  <iframe 
+          src="https://www.youtube.com/embed/OCrdp7OPpiU" 
           frameborder="0" 
           allowfullscreen>
   </iframe>
