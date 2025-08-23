@@ -23,9 +23,9 @@ Published on the **Google Play Store** [Link](https://play.google.com/store/apps
 </div>
 
 <p align="center">
-  <img src="https://play-lh.googleusercontent.com/9tQ2rashZngEZGi8HOoKVGXpcNZyHadnTmEWuLIRJgXjz9strmMZJ_oJ2K-u6FQ4eA=w1052-h592-rw" width="30%" />
-  <img src="https://play-lh.googleusercontent.com/bDsLlw93uHwUkAJ_MKIdZxDP9g7vu6dvGP9FZcVmnaipb7lvP6IxxTojKZongQl9d8s=w1052-h592-rw" width="30%" />
-  <img src="https://play-lh.googleusercontent.com/Lfi5P4xyLAyMjCRJpWXqQDqFrHcL8Y1io3R1Rv8Zy1AAvQfEuhpWVBS9xdDx-idNnyA=w1052-h592-rw" width="30%" />
+  <img src="../TTT/1.png" width="30%" />
+  <img src="../TTT/2.png" width="30%" />
+  <img src="../TTT/3.png" width="30%" />
 </p>
 
 <div class="project_background" markdown="1">

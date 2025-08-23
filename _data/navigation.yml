@@ -10,9 +10,9 @@
 main:
   - title: "Projects"
     url: /projects/
-  
-  - title: "Assets"
-    url: /assets/    
-    
+
+  # - title: "Assets"
+  #   url: /assets/
+
   - title: "Contact"
-    url: /contact/   
+    url: /contact/
